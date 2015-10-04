@@ -1,0 +1,4 @@
+tcgina.zip filter=lfs diff=lfs merge=lfs -text
+TCHead.zip filter=lfs diff=lfs merge=lfs -text
+TCHunt.zip filter=lfs diff=lfs merge=lfs -text
+tctemp.zip filter=lfs diff=lfs merge=lfs -text
